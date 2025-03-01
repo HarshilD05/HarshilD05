@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, This is Harshil Damania👋
 
-<!--
-**HarshilD05/HarshilD05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves working with various technologies and building impactful projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,nodejs,express,flutter,dart,flask,fastapi,mysql,mongodb,git,github,postman,vscode,tensorflow,pytorch,scikitlearn" />
+</p>
+
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=HarshilD05&show_icons=true&theme=nightowl)
