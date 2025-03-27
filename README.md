@@ -6,7 +6,7 @@ I'm a passionate developer who loves working with various technologies and build
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css,nodejs,express,flutter,dart,flask,fastapi,mysql,mongodb,git,github,postman,vscode,tensorflow,pytorch,scikitlearn&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,js,html,css,nodejs,express,java,flutter,dart,python,flask,fastapi,mysql,mongodb,firebase,git,github,postman,vscode,tensorflow,pytorch,scikitlearn,opencv,anaconda,powershell,bash,figma&perline=10" />
 </p>
 
 
